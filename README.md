@@ -94,6 +94,9 @@ ZeniBot Chat Response
 
 ---![Screenshot from 2025-05-27 20-56-30](https://github.com/user-attachments/assets/f59c2c67-ee0f-4dec-8a96-aa1140f33492)
 
+## Demo Video
+
+https://www.youtube.com/watch?v=80pNjgck3MU&feature=youtu.be
 
 ## Running Locally
 
