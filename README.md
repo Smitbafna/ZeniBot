@@ -1,8 +1,9 @@
 #  ZeniBot — AI-Powered Wallet Assistant
+![Screenshot from 2025-05-25 10-50-02](https://github.com/user-attachments/assets/8272877a-62ba-4100-8141-d2f4ce1106df)
 
 **ZeniBot** is an intelligent companion designed to help users manage their **Solana-based DeFi portfolios**. It delivers personalized insights, swap recommendations, risk alerts, and cross-chain suggestions — all optimized for **speed, usability, and privacy**.
 
-> ⚡ Built using the OKX DEX API + OpenAI + Solana RPC for the **OKX x Solana Accelerate Hackathon**.
+>  Built using the OKX DEX API + OpenAI + Solana RPC for the **OKX x Solana Accelerate Hackathon**.
 
 ---
 
@@ -39,7 +40,7 @@ All while keeping your experience seamless and private.
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer              | Tech Used                                |
 |--------------------|-------------------------------------------|
@@ -80,7 +81,8 @@ All while keeping your experience seamless and private.
 ## Architecture Overview
 
  
-![Uploading Screenshot from 2025-05-27 20-41-38.png…]()
+![Screenshot from 2025-05-27 20-41-38](https://github.com/user-attachments/assets/cfb7f0d5-6f65-4140-ab59-ed34f4bb6736)
+
 
 
 ## Demo Screens
