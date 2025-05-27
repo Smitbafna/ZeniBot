@@ -1,0 +1,46 @@
+.navbar-container {
+    display: flex;
+    align-items: center;
+    padding: 0.5rem;
+    background-color: var(--navbar-bg);
+    gap: 1rem;
+    position: relative;
+  }
+  
+  
+  /* ZeniBot stays on left as is */
+  .project-name {
+    font-family: 'Poppins', sans-serif;
+    font-size: 2rem;
+    font-weight: 700;
+    margin-left: 5%;
+    white-space: nowrap;
+  }
+  
+  
+  /* Menu wrapper grows and centers the menu */
+  .menu-wrapper {
+    flex-grow: 1;
+    display: flex;
+    justify-content: center; 
+    font-family: 'Poppins', sans-serif;/* center horizontally */
+    margin-left: -20rem;
+  }
+  
+  .wallet-button-container {
+    display: flex;
+    align-items: center;
+    height: 100%; /* Ensures alignment relative to navbar height */
+  }
+  
+  .wallet-button-container .wallet-adapter-button {
+    margin: 0 !important;
+    padding: 0 !important; /* Remove internal spacing that causes misalignment */
+    line-height: 1 !important;
+    font-size: 1rem;
+    background: transparent; /* optional */
+    display: flex;
+    align-items: center;
+    height: 2.5rem; /* Match the height of other navbar items if fixed */
+  }
+  
